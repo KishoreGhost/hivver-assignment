@@ -1,0 +1,104 @@
+======================================================================
+CLUSTER TAXONOMY PRINTOUT — assign names in INTENT_NAMES dict
+======================================================================
+
+--- Cluster 0 (133 texts) ---
+  Top terms: user, user user, iphone, https, que, la, el, ios, 11, en
+  Examples:
+    * Hola [USER] Llevo desde junio de 2016 esperando su respuesta a una incidencia en mi iPad, estoy decepcionada con su serv
+    * [USER] empfiehlt, iPad auf Vorversion zur?ckzusetzen. Dass man das Backup dann nicht zur?ckspielen kann, sagt man erst a
+    * e ai [USER] da um ajudinha kkk por favor!!!
+    * [USER] s? queria que minhas notifica??es voltassem a aparecer normalmente ?
+    * [USER] libera uma atualiza??o pra bateria por favor nunca te pedi nada
+
+--- Cluster 1 (596 texts) ---
+  Top terms: user, fix, user fix, letter, type, user user, question, shit, mark, question mark
+  Examples:
+    * [USER] fix this ??&gt; I? I? I? I? I?
+    * Hey [USER] my ?I?? is coming out like this https://t.co/2Fc3SFlduw
+    * I?m sorry [USER] but this is my biggest pet peeve and I need you to tell me how to get rid of it. My head WILL explode. 
+    * so wtf is going on with this text glitch [USER] ???
+    * I? can?t believe [USER] still haven?t fixed the issue with the the letter I?
+
+--- Cluster 2 (707 texts) ---
+  Top terms: user, iphone, update, phone, new, user iphone, ios, user user, screen, plus
+  Examples:
+    * [USER] i?m facing a really annoying network issue in my iphone6. I doesn?t run any sim cards (giving me no service/searc
+    * Since an iOS update last week my phone Crashes &amp; freezes. Apps don?t work well. I hate it. Why [USER] ? #rottenapple
+    * #iOS11 has ruined my iPhone. Battery is terrible, can?t connect to iTunes Store &amp; purchase anything, WiFi connection
+    * [USER] I bought an iPhone 8 brand new that?s running like its been used for years &amp; I feel like i?ve been scammed wi
+    * [USER] I?m on an iPhone 6S. Since updating to iOS11, phone calls regularly drop and GPS isn?t working. Any help? No issu
+
+--- Cluster 3 (882 texts) ---
+  Top terms: user, user user, 11, https, user 11, fix, user fix, user https, thank, thanks
+  Examples:
+    * [USER] it?s all good it finished eventually
+    * [USER] Unsuccessful
+    * [USER] [USER] So stupid. I? have no idea why that?s happening.
+    * [USER] No. She doesn?t have a twitter account and she?s in her mid-80s. Easier via me. What?s the issue do you think?
+    * [USER]
+
+--- Cluster 4 (651 texts) ---
+  Top terms: user, phone, update, iphone, user user, fix, new, user phone, user iphone, updated
+  Examples:
+    * Anyone else having issues with the new [USER] updates?? It?s beyond frustrating not being able to read&amp; work my phon
+    * I fucking knew I shouldn?t have updated my phone. It?s hardly even worked in the past 24 hrs and now I can?t even make c
+    * [USER] so I DL new IOS and now my messages won?t send? #wtf
+    * I don't hate anything besides the fact the silent button on my phone doesn't work &amp; nothing can make my phone silent
+    * [USER] When I press the lock button, my screen turns off. When I press it again, it comes back on with the phone unlocke
+
+--- Cluster 5 (347 texts) ---
+  Top terms: user, music, apple, apple music, user user, itunes, https, phone, app, just
+  Examples:
+    * [USER] I have to restart my phone every time I?m playing music for the lockscreen music panel to work
+    * Anytime I get a Snapchat notification my music stops and doesn?t come back on unless I press play [USER]  . It?s aggrava
+    * [USER] my left EarPods suddenly shut down ?! Why is that ?
+    * gotta love it when apple music just stops and you have to remake a new account with a new card.. i swear if i get charge
+    * [USER] my Apple Music isn?t working every time I try to open the app it turns to a black screen
+
+--- Cluster 6 (653 texts) ---
+  Top terms: user, 11, ios, ios 11, iphone, user ios, ios11, update, phone, https
+  Examples:
+    * [USER] iPhone 7+, and iOS 11.0.3
+    * my phone literally restarted for a whole hour then just came back on [USER] the ios11 needs to be fixed sis
+    * [USER] When I switch off my wifi from control centre, it still remains on. Every time I have to go to the settings and t
+    * [USER] are you guys going to fix IOS 11.0.3 anytime soon? My phone is garbage now with it installed
+    * [USER] [USER] [USER] 
+This problem I have in iPhone 6s and iPhone 8plus version 11.1.1 and 11.1 we want the update to so
+
+--- Cluster 7 (643 texts) ---
+  Top terms: user, apple, https, iphone, app, user user, icloud, store, phone, help
+  Examples:
+    * Why is it my Cloud Account has deleted items I had Not Moved into the Trash? Policy Violations by Illegitimate Assumed P
+    * [USER] The service centre is in Hyderabad, India
+    * [USER] Hello, I need to set up a reminder in my calendar but I?m not able to push the + button. Not sure how to fix it. 
+    * Had my first negative [USER] experience today in store today. Then went back later and spoke to someone else who was the
+    * [USER] Face ID doesn?t work while wearing Ray Ban wayfarers (most popular sunglasses). #majorfail
+
+--- Cluster 8 (738 texts) ---
+  Top terms: user, update, https, fix, 11, user user, app, issue, just, apps
+  Examples:
+    * [USER] I restarted it and my whole library was there...thank you!!
+    * [USER] why don?t all apps support Key Chain?
+    * [USER] No other issues that I can see, guys. And no update for Hue. It?s a strange one ?
+    * [USER] Thank you! I did what it said and it has worked so far! I will pass this onto my many friends that are experienci
+    * What?s up with this A? thing on the new update! Handle that [USER]
+
+--- Cluster 9 (221 texts) ---
+  Top terms: user, macbook, mac, https, sierra, pro, high, high sierra, macbook pro, screen
+  Examples:
+    * Life long [USER] customer, just had worst experience with customer service. Sent me a destroyed laptop, terrible coordin
+    * [USER] Hi , Photos on Laptop keeps shutting itself down every time I try and upload photos on my laptop?? Why ?
+    * Dear [USER], please update High Sierra. These glitches are really freaking me out. Thanks in advance - a long time user.
+    * [USER] Yes that it isn?t compatible with os9. But before I erased it there was a copy in there that worked - not latest 
+    * [USER] Thisversion of macOS hashad error aftererror, every time I turnoff the computer the screen stays that way for alm
+
+--- Cluster 10 (429 texts) ---
+  Top terms: user, battery, 11, ios, iphone, phone, update, ios 11, life, user user
+  Examples:
+    * [USER] Good to see we have time for commercials but can't get any help with fixing the new iOS update that is draining m
+    * [USER] [USER] how do I downgrade my #iphone6 #ios11 to ios10? Battery draining very fast on ios11
+    * i regret updating my phone all it does is dRAIN MY BATTERY [USER] FIX THIS
+    * Hey [USER] no % for battery in iPhone X? Are you stupid? YOU?RE RUINING MY LIFE!
+    * [USER] my Apple Battery case is wearing weird. Can you help. https://t.co/U4inQVZilR
+======================================================================

@@ -1,0 +1,134 @@
+[
+  {
+    "text": "Hola [USER] Llevo desde junio de 2016 esperando su respuesta a una incidencia en mi iPad, estoy decepcionada con su servicio t\u00e9cnico",
+    "intent": "non_english_inquiry"
+  },
+  {
+    "text": "[USER] empfiehlt, iPad auf Vorversion zur\u00fcckzusetzen. Dass man das Backup dann nicht zur\u00fcckspielen kann, sagt man erst auf Nachfrage.",
+    "intent": "non_english_inquiry"
+  },
+  {
+    "text": "e ai [USER] da um ajudinha kkk por favor!!!",
+    "intent": "non_english_inquiry"
+  },
+  {
+    "text": "[USER] fix this \u2014\u2014&gt; I\ufe0f I\ufe0f I\ufe0f I\ufe0f I\ufe0f",
+    "intent": "keyboard_text_glitch"
+  },
+  {
+    "text": "Hey [USER] my \u201cI\ufe0f\u201d is coming out like this https://t.co/2Fc3SFlduw",
+    "intent": "keyboard_text_glitch"
+  },
+  {
+    "text": "I\u2019m sorry [USER] but this is my biggest pet peeve and I need you to tell me how to get rid of it. My head WILL explode. https://t.co/xWhz5vaYQC",
+    "intent": "keyboard_text_glitch"
+  },
+  {
+    "text": "[USER] i\u2019m facing a really annoying network issue in my iphone6. I doesn\u2019t run any sim cards (giving me no service/searching always)",
+    "intent": "connectivity_network_issue"
+  },
+  {
+    "text": "Since an iOS update last week my phone Crashes &amp; freezes. Apps don\u2019t work well. I hate it. Why [USER] ? #rottenapple #badupdate",
+    "intent": "connectivity_network_issue"
+  },
+  {
+    "text": "#iOS11 has ruined my iPhone. Battery is terrible, can\u2019t connect to iTunes Store &amp; purchase anything, WiFi connection drops.. [USER]",
+    "intent": "connectivity_network_issue"
+  },
+  {
+    "text": "[USER] it\u2019s all good it finished eventually",
+    "intent": "conversation_followup_status"
+  },
+  {
+    "text": "[USER] Unsuccessful",
+    "intent": "conversation_followup_status"
+  },
+  {
+    "text": "[USER] [USER] So stupid. I\ufe0f have no idea why that\u2019s happening.",
+    "intent": "conversation_followup_status"
+  },
+  {
+    "text": "Anyone else having issues with the new [USER] updates?? It\u2019s beyond frustrating not being able to read&amp; work my phone!",
+    "intent": "device_os_glitch"
+  },
+  {
+    "text": "I fucking knew I shouldn\u2019t have updated my phone. It\u2019s hardly even worked in the past 24 hrs and now I can\u2019t even make calls. [USER] thanks\ud83d\ude21",
+    "intent": "device_os_glitch"
+  },
+  {
+    "text": "[USER] so I DL new IOS and now my messages won\u2019t send? #wtf",
+    "intent": "device_os_glitch"
+  },
+  {
+    "text": "[USER] I have to restart my phone every time I\u2019m playing music for the lockscreen music panel to work",
+    "intent": "media_audio_services"
+  },
+  {
+    "text": "Anytime I get a Snapchat notification my music stops and doesn\u2019t come back on unless I press play [USER]  . It\u2019s aggravating me",
+    "intent": "media_audio_services"
+  },
+  {
+    "text": "[USER] my left EarPods suddenly shut down ?! Why is that ?",
+    "intent": "media_audio_services"
+  },
+  {
+    "text": "[USER] iPhone 7+, and iOS 11.0.3",
+    "intent": "software_update_ios"
+  },
+  {
+    "text": "my phone literally restarted for a whole hour then just came back on [USER] the ios11 needs to be fixed sis",
+    "intent": "software_update_ios"
+  },
+  {
+    "text": "[USER] When I switch off my wifi from control centre, it still remains on. Every time I have to go to the settings and turn it off. #iOS11 #6s",
+    "intent": "software_update_ios"
+  },
+  {
+    "text": "Why is it my Cloud Account has deleted items I had Not Moved into the Trash? Policy Violations by Illegitimate Assumed Power...[USER] [USER] [USER] [USER] [USER] [USER] [USER] [USER] [USER] [USER] https://t.co/8OT2GR4Z46",
+    "intent": "account_icloud_store"
+  },
+  {
+    "text": "[USER] The service centre is in Hyderabad, India",
+    "intent": "account_icloud_store"
+  },
+  {
+    "text": "[USER] Hello, I need to set up a reminder in my calendar but I\u2019m not able to push the + button. Not sure how to fix it. Thanks https://t.co/u8kmzYjldJ",
+    "intent": "account_icloud_store"
+  },
+  {
+    "text": "[USER] I restarted it and my whole library was there...thank you!!",
+    "intent": "app_compatibility_settings"
+  },
+  {
+    "text": "[USER] why don\u2019t all apps support Key Chain?",
+    "intent": "app_compatibility_settings"
+  },
+  {
+    "text": "[USER] No other issues that I can see, guys. And no update for Hue. It\u2019s a strange one \ud83e\udd14",
+    "intent": "app_compatibility_settings"
+  },
+  {
+    "text": "Life long [USER] customer, just had worst experience with customer service. Sent me a destroyed laptop, terrible coordination to fix problem",
+    "intent": "macos_hardware_support"
+  },
+  {
+    "text": "[USER] Hi , Photos on Laptop keeps shutting itself down every time I try and upload photos on my laptop?? Why ?",
+    "intent": "macos_hardware_support"
+  },
+  {
+    "text": "Dear [USER], please update High Sierra. These glitches are really freaking me out. Thanks in advance - a long time user. https://t.co/Fg0V7UOzCB",
+    "intent": "macos_hardware_support"
+  },
+  {
+    "text": "[USER] Good to see we have time for commercials but can't get any help with fixing the new iOS update that is draining my battery.....",
+    "intent": "battery_power_drain"
+  },
+  {
+    "text": "[USER] [USER] how do I downgrade my #iphone6 #ios11 to ios10? Battery draining very fast on ios11",
+    "intent": "battery_power_drain"
+  },
+  {
+    "text": "i regret updating my phone all it does is dRAIN MY BATTERY [USER] FIX THIS",
+    "intent": "battery_power_drain"
+  }
+]

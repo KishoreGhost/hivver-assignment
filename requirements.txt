@@ -1,0 +1,11 @@
+kaggle>=1.6
+sentence-transformers>=3.0
+scikit-learn>=1.4
+langdetect>=1.0.9
+vaderSentiment>=3.3.2
+openai>=1.30          # used for Groq (OpenAI-compatible)
+tiktoken>=0.7
+numpy>=1.26
+pandas>=2.2
+tqdm>=4.66
+pytest>=8.0

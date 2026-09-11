@@ -1,0 +1,66 @@
+
+=== Sample outbound replies (n=30) ===
+
+[1] [USER] We want to make sure your iPhone is working as expected. Provide us more details with what's going on so we can help.
+
+[2] [USER] We want to get your iPhone working for you. DM us details of what's happening, using the link below. https://t.co/GDrqU22YpT
+
+[3] [USER] Awesome! You're so welcome and have a great rest of your evening.
+
+[4] [USER] Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXefaskH
+
+[5] [USER] Hi there. Please send us a DM and tell us what's happening when you try to make a call. We'll meet you there to help. https://t.co/GDrqU22YpT
+
+[6] [USER] We want to help. Please join us in DM to continue. https://t.co/GDrqU22YpT
+
+[7] [USER] Go ahead and send us a DM with details about your issue so we can look into this with you. Thank you. https://t.co/GDrqU22YpT
+
+[8] [USER] Let’s work together to get this addressed. Approximately how long ago did you update? Let us know via a DM. We’ll go from there. https://t.co/GDrqU22YpT
+
+[9] [USER] Let's take a further look at this together. Meet us in DM to continue. https://t.co/GDrqU22YpT
+
+[10] [USER] We'd like to know more so we can see how we can help. Let's chat over in Direct Message. https://t.co/GDrqU22YpT
+
+[11] [USER] Hi there. Thanks for reaching out to us. Which particular app are you wanting to use with iCloud Keychain? You may find this link helpful:
+https://t.co/AQOYnCVX9b
+
+[12] [USER] Glad to hear things are working as expected once again. Let us know if we can be of any other assistance.
+
+[13] [USER] Go ahead and send us a DM. Let us know if you are on iOS 11.0.3 yet: https://t.co/80YRnjVguS https://t.co/GDrqU2kzhr
+
+[14] [USER] This is certainly not the experience we want you to have. You're in great hands for support. Could you DM us which iPhone and iOS version you're using? Use this link to check for the iOS version: https://t.co/ZTw54HL4Rm We look forward to your response. https://t.co/GDrqU22YpT
+
+[15] [USER] Hi, we'll be happy to help and to start, we ask that you give the steps in this article a try: https://t.co/2hgNQH8Vvq
+
+[16] [USER] Alright, thanks. So that we can explore the best options for your region, DM us which country you’re messaging us from. https://t.co/GDrqU22YpT
+
+[17] [USER] Have you updated to iOS 11.0.2 yet? https://t.co/80YRnjDFDk Send us a DM and let us know. https://t.co/GDrqU22YpT
+
+[18] [USER] We want you to have an enjoyable experience while using your phone. We'd like to get this sorted. Click here to join us in DM and provide us with the software version that is running on your phone: https://t.co/GDrqU22YpT
+
+[19] [USER] We'd love to help. DM us what happens when you enable the Side Switch, and which iPhone you're using to begin: https://t.co/GDrqU22YpT
+
+[20] [USER] If you try to go to the Home screen after pressing the Lock button during a call, are you asked for verification?
+
+[21] [USER] We're happy to look into this with you. Which version of iOS 11 are you using? Which apps are you trying to use GPS in?
+
+[22] [USER] Thanks for reaching out. That is expected behavior for iOS 11. Turning off Wi-Fi from Control Center just disconnects the device from the current Wi-Fi network but leaves Wi-Fi on so you can quickly access it when needed.
+
+[23] [USER] Hey there, let's work on this issue together. What app(s) are you using to notice this issue with your keyboard?
+
+[24] [USER] We’d love to help. To start, please send us a DM confirming which software version you’re using. You can tap Settings &gt; General &gt; About to locate the software version. https://t.co/GDrqU2kzhr
+
+[25] [USER] It's never our intention to get disconnected from you. Could you reply back via a DM? We’ll keep moving from there. https://t.co/GDrqU22YpT
+
+[26] [USER] We'd be happy to help. Send us a DM and we can start there. https://t.co/GDrqU22YpT
+
+[27] [USER] We're here for you! Please let us know exactly what's going on with your devices. We'd love to help get is sorted out.
+
+[28] [USER] We offer support via Twitter in English. Get help in Spanish here: https://t.co/IBIY3vMgPj or join https://t.co/OczyRx7IOs
+
+[29] [USER] That’s not what we’d like to hear. Can you start by letting us know more about what has happened in DM? We’d like to confirm what files were lost as well as the free available space on your iCloud account. You can follow the steps here: https://t.co/7vNd2QAL5s https://t.co/GDrqU22YpT
+
+[30] [USER] You should be able to resolve the issue by backing up, then updating to iOS 11.1.1 as shown on our page here: https://t.co/xXaXeeSRt9 Let us know in DM if you continue to experience this issue. https://t.co/GDrqU22YpT
+
+=== End of sample ===
+Review the above and provide 3-4 brand voice adjectives + do/don't examples.

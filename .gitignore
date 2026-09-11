@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Dataset (large binary, download via `make data`)
+data/twcs.csv
+data/twcs/
+data/twcs.zip
+*.zip
+
+# Model weights (auto-downloaded by sentence-transformers)
+.cache/
+~/.cache/
+
+# LLM response cache (may contain API responses)
+cache/*.sqlite
+cache/*.db
+
+# Generated sample files (large)
+data/sample/*.parquet
+data/sample/*.npz
+
+# Secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+.specify/
+.github/
